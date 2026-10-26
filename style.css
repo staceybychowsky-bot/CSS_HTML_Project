@@ -4,3 +4,9 @@
   border: 5px solid #8ab4e6;
   border-radius: 12px;
 }
+.box {
+  width: 300px;
+  padding: 20px;
+  border: 3px solid black;
+  margin: 30px;
+}
